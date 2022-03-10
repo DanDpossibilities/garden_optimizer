@@ -5,7 +5,21 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 3.0.3p157
+
+* Rails version 7.0.2.3
+
+* node v17.7.1 (npm v8.5.2)
+
+* postgresql 14
+
+* yarn version 1.22.17
+
+* 
+
+* 
+
+* 
 
 * System dependencies
 
